@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20devGyul%20%20&height=200&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20GyulRangDev%20%20&height=200&fontSize=80)
 
 ### Hi there 👋
 
