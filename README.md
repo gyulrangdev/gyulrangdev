@@ -19,7 +19,7 @@
 
 <!-- https://github.com/git-goods/gitanimals?tab=readme-ov-file -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/gyulrangdev?pet-id=674522422955569341" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/gyulrangdev?pet-id=674522422955569341" width="500" height="120"/>
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
