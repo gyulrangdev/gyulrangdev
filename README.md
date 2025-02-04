@@ -2,10 +2,6 @@
 
 ### Hi there 👋
 
-<!-- https://github.com/git-goods/gitanimals?tab=readme-ov-file -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/gyulrangdev?pet-id=674522422955569341" width="1000" height="120"/>
-</a>
 
 ### Tech Stack
 
@@ -20,6 +16,11 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=Framer&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+
+<!-- https://github.com/git-goods/gitanimals?tab=readme-ov-file -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/gyulrangdev?pet-id=674522422955569341" width="1000" height="120"/>
+</a>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/gyulrangdev"/>
