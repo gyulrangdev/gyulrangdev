@@ -19,9 +19,9 @@
 
 <!-- https://github.com/git-goods/gitanimals?tab=readme-ov-file -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/gyulrangdev?pet-id=674522422955569341" width="500" height="120"/>
+  <img src="https://render.gitanimals.org/lines/gyulrangdev?pet-id=676426726306038451" width="500" height="120"/>
 </a>
-
+  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gyulrangdev&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/gyulrangdev"
