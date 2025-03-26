@@ -18,10 +18,6 @@
 <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=Framer&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
 
 <!-- https://github.com/git-goods/gitanimals?tab=readme-ov-file -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/gyulrangdev?pet-id=676426726306038451" width="500" height="120"/>
-</a>
-  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gyulrangdev&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/gyulrangdev"
